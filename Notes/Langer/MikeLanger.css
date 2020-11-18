@@ -1,0 +1,13 @@
+body {color:rgb(0, 0, 0); font-family: Helvetica,Times; text-align: center} 
+h3
+{background-color:#e0ffff;}
+table
+{width:100%; border: 0px}
+td
+{border: 1px solid black;}
+table, td
+{text-align: left; vertical-align:top; 
+ cellpadding:1; cellspacing:1;} 
+a:link   = {color:0000ee;}  /*  unvisited */
+a:visited= {color:00ff00;}  /*  visited   */
+a:hover  = {color:551a8b;}  /*  mouse over */
